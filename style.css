@@ -1,0 +1,22 @@
+
+body
+{
+    margin: 0px;padding: 0px; box-sizing: border-box;
+}
+.card-img-top
+{
+    width: 150px; width: 150px;justify-content: center;align-items: center; margin-top: 0px;
+}
+.card-text
+{
+    height: 100px; width: 100%; overflow: hidden;
+}
+
+.card
+{
+ display: inline-block;  margin: 40px;justify-content: center;align-items: center; padding: 20px;
+}
+#contain1
+{
+
+}
